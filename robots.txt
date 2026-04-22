@@ -1,0 +1,11 @@
+# StreamVault - robots.txt
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+
+# Sitemap location
+Sitemap: https://yourdomain.com/sitemap.xml
+
+# Crawl-delay for polite crawling
+Crawl-delay: 1
